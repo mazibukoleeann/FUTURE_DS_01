@@ -9,8 +9,8 @@ This project focuses on analyzing business sales data to identify:
 - Regional performance
 
 ## Tools Used
-(To be updated)
-- Excel / Python / Power BI
+
+- Excel 
 
 ## Deliverables
 - Data analysis
